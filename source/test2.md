@@ -5,7 +5,7 @@ tags: ["sample", "test2"]
 excerpt: test2
 ---
 ```javascript
-for(let i=0; i<5; i++) {
+for(let i=0; i<10; i++) {
 
 console.log(i);
 
