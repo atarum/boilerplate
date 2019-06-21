@@ -8,7 +8,10 @@ excerpt: test2
 a = [10, 20, 30, 40, 50]
 for i in range(5):
    print(a[-i], " ")
-print(" Hello")
+print("Hello")
 linestr = "@" * 20
 print(linestr)
+x = input("input number:")
+x = int(x)
+print("double is:",2*x)
 ```
