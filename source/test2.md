@@ -12,6 +12,7 @@ print("Hello")
 linestr = "@" * 20
 print(linestr)
 x = input("input number:")
+print("input is:", x)
 x = int(x)
-print("double is:",2*x)
+print("its double is:", 2*x)
 ```
